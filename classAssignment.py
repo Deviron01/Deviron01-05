@@ -23,7 +23,6 @@ class UndergraduateStudent(Student):
         self.RegNo = RegNo
  
 
-
 class PostGrad(Student):
     def __init__(self, GraduationCode):
         self.GraduationCode = GraduationCode

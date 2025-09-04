@@ -20,4 +20,4 @@ class Kangaroo(Animal):
         print("I move by hoping")
 
 
-print(Dog.move)
+
